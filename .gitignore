@@ -1,0 +1,41 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Executables
+*.exe
+*.out
+*.app
+
+# project tmp files
+core
+*.swp
+*.project
+*.cproject
+Debug
+*.settings
+*.pdf
+*.plt
+kdmd_ata
+
+# Directories
+build/
+bak/
+
+/Tracker-Alpha0/
+/Release/
+/Alpha-0/
